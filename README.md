@@ -1,3 +1,6 @@
 # NumberUtilUnitTest
 
-gradle build
+init projiect ： gradle build
+
+### jacoco 
+### unit test
